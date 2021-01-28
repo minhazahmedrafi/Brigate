@@ -375,12 +375,7 @@ transition: all 0.3s ease;
 .project-btn a:hover{
 background: #222222;
 }
-#why-choose-us{
-background: linear-gradient(#000000a1,#000000a1) ,url(../images/why-choose-us1.jpg);
-background-repeat: no-repeat;
-background-size: cover;
-background-position: center;
-}
+#why-choose-us{background: linear-gradient(#000000a1,#000000a1) ,url(../images/why-choose-us1.jpg);background-repeat: no-repeat;background-size: cover;background-position: center;height: 200px;}
 .iconwrapper{
 overflow: hidden;
 }
